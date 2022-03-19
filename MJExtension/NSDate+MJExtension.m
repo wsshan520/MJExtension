@@ -22,7 +22,7 @@
     NSString *dateString = [formatter stringFromDate:self];
     return dateString;
 }
-
+//11111111111111111
 - (NSString *)mj_stringWithFormatter:(NSDateFormatter *)formatter {
     return [formatter stringFromDate:self];
 }
